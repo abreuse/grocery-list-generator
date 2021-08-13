@@ -1,0 +1,312 @@
+[
+  {
+    "title": "Tarte au thon",
+    "requiredIngredients": [
+      {
+        "name": "thon",
+        "quantity": "200g"
+      },
+      {
+        "name": "tomates",
+        "quantity": "2"
+      },
+      {
+        "name": "oignons",
+        "quantity": "2"
+      },
+      {
+        "name": "champignons",
+        "quantity": "200g"
+      }
+    ],
+    "mealCategory": "MEAT"
+  },
+  {
+    "title": "Gnochis - Chippo",
+    "requiredIngredients": [
+      {
+        "name": "Gnocchis",
+        "quantity": "200g"
+      },
+      {
+        "name": "Chippolata",
+        "quantity": "4"
+      }
+    ],
+    "mealCategory": "MEAT"
+  },
+  {
+    "title": "Poulet - Riz",
+    "requiredIngredients": [
+      {
+        "name": "poulet",
+        "quantity": "350g"
+      },
+      {
+        "name": "Riz",
+        "quantity": "200g"
+      }
+    ],
+    "mealCategory": "MEAT"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "MEAT"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "MEAT"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "MEAT"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "MEAT"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "MEAT"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "MEAT"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "MEAT"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "MEAT"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "VEGETARIAN"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "VEGETARIAN"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "VEGETARIAN"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "VEGETARIAN"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "VEGETARIAN"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "VEGETARIAN"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "VEGETARIAN"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "VEGETARIAN"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "VEGETARIAN"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "VEGETARIAN"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "VEGETARIAN"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "VEGETARIAN"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "VEGETARIAN"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "VEGETARIAN"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "VEGETARIAN"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "VEGETARIAN"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "VEGETARIAN"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "VEGETARIAN"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "VEGETARIAN"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "VEGETARIAN"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "VEGETARIAN"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "VEGETARIAN"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "VEGETARIAN"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "VEGETARIAN"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "VEGETARIAN"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "VEGETARIAN"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "VEGETARIAN"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "VEGETARIAN"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "VEGETARIAN"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "VEGETARIAN"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "VEGETARIAN"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "MEAT"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "MEAT"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "MEAT"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "MEAT"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "MEAT"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "MEAT"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "MEAT"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "MEAT"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "MEAT"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "MEAT"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "MEAT"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "MEAT"
+  },
+  {
+    "title": "Dummy",
+    "requiredIngredients": [],
+    "mealCategory": "MEAT"
+  }
+]
